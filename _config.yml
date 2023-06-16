@@ -1,0 +1,9 @@
+# Site settings
+title: Cozy Journal
+author:
+  name: SY
+  email: developerSY@gmail.com
+description: "Cozy Journal is a AI powered diary."
+
+# Build settings
+remote_theme: jekyll/minima

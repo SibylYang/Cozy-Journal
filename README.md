@@ -1,6 +1,6 @@
 **Cozy Journal** is an elegant and user-friendly iOS app designed to simplify your journaling experience. Find Cozy Journal here in [App Store](https://apps.apple.com/us/app/cozy-journal-ai-diary/id6450285920).
 
-It eliminates the barriers that often hinder journaling and provides a range of features to enhance your journey:
+Cozy Journal eliminates the barriers that often hinder journaling and provides a range of features to enhance your journey:
 
 **Chat with an AI Assistant**: Imagine having a personal assistant to listen to your thoughts, inspire your writing, and even draft the journal for you. Cozy Journal's built-in AI assistant does just that! Engage in conversational chats, share your experiences, and watch as the AI listens carefully, providing support and even drafting journal entries based on your conversations.
 
